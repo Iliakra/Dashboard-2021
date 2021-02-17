@@ -1,0 +1,1175 @@
+{
+  "name": "Adwise/JnJ Motilegas Nov 2020",
+  "path": "/Adwise/JnJ Motilegas Nov 2020",
+  "modifyCreatives": [
+    {
+      "src": "creatives.xlsx",
+      "sheet": "default"
+    }
+  ],
+  "modifyFeeds": [
+    {
+      "src": "feed.xlsx",
+      "sheet": "default"
+    }
+  ],
+  "sections": {},
+  "publishers": {
+    "Dv360": 7,
+    "AdSpector": 12,
+    "Segmento - Google": 10,
+    "Segmento - Yandex": 5,
+    "DCM": 5
+  },
+  "platforms": {
+    "Google": 34,
+    "YandexApi": 5
+  },
+  "formats": {
+    "300x600": {
+      "width": 300,
+      "height": 600,
+      "isRubber": false,
+      "count": 5
+    },
+    "300x250": {
+      "width": 300,
+      "height": 250,
+      "isRubber": false,
+      "count": 9
+    },
+    "336x280": {
+      "width": 336,
+      "height": 280,
+      "isRubber": false,
+      "count": 8
+    },
+    "240x400": {
+      "width": 240,
+      "height": 400,
+      "isRubber": false,
+      "count": 5
+    },
+    "728x90": {
+      "width": 728,
+      "height": 90,
+      "isRubber": false,
+      "count": 5
+    },
+    "160x600": {
+      "width": 160,
+      "height": 600,
+      "isRubber": false,
+      "count": 2
+    },
+    "970x250": {
+      "width": 970,
+      "height": 250,
+      "isRubber": false,
+      "count": 2
+    },
+    "580x400": {
+      "width": 580,
+      "height": 400,
+      "isRubber": false,
+      "count": 2
+    },
+    "300x300": {
+      "width": 300,
+      "height": 300,
+      "isRubber": false,
+      "count": 1
+    }
+  },
+  "feeds": {
+    "office": 7,
+    "lact": 7,
+    "esp": 5,
+    "other": 10,
+    "common": 10
+  },
+  "creatives": {
+    "/Dv360/300x600/office": {
+      "name": "/Dv360/300x600/office",
+      "section": "",
+      "publisher": "Dv360",
+      "platform": "Google",
+      "formatName": "300x600",
+      "format": {
+        "width": 300,
+        "height": 600,
+        "isRubber": false
+      },
+      "feed": "office",
+      "state": "completed",
+      "updateTime": 1606981000011,
+      "creativeWeight": 148449,
+      "backupWeight": 146224,
+      "backupPath": "/Publish/office/Dv360/300x600/JnJ_Motilegas_Nov_2020_Dv360_300x600_office_stop.gif?s=f3d409d93bb8baa829f7a85488bfe7cd",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Dv360_300x600_office.html?s=c9dcf9bb5703c3045a030eeac72189e1",
+      "framesPath": "/Frames/office/Dv360/300x600/",
+      "zipPath": "/Publish/office/Dv360/300x600/JnJ_Motilegas_Nov_2020_Dv360_300x600_office.zip?s=4d711240fb46ba23a93a7ff98b938740",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Dv360_300x600_office_1.png?s=ce9ce4cbaa4e9ed4a460f873b3f1ea0a",
+        "JnJ_Motilegas_Nov_2020_Dv360_300x600_office_2.png?s=e13d007c84245b33af49fad02f64b824",
+        "JnJ_Motilegas_Nov_2020_Dv360_300x600_office_3.png?s=e0f72283f6848ec70e89eeb2f4cf1819",
+        "JnJ_Motilegas_Nov_2020_Dv360_300x600_office_4.png?s=b25b9109d4605eaa56e10656982e64dd"
+      ],
+      "lastError": null
+    },
+    "/Dv360/300x250/lact": {
+      "name": "/Dv360/300x250/lact",
+      "section": "",
+      "publisher": "Dv360",
+      "platform": "Google",
+      "formatName": "300x250",
+      "format": {
+        "width": 300,
+        "height": 250,
+        "isRubber": false
+      },
+      "feed": "lact",
+      "state": "completed",
+      "updateTime": 1606981021263,
+      "creativeWeight": 148274,
+      "backupWeight": 134674,
+      "backupPath": "/Publish/lact/Dv360/300x250/JnJ_Motilegas_Nov_2020_Dv360_300x250_lact_stop.gif?s=e170b3c16000802ccaeb118a132f4cb0",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Dv360_300x250_lact.html?s=e9579d5c50587991808d9870a66e8d6a",
+      "framesPath": "/Frames/lact/Dv360/300x250/",
+      "zipPath": "/Publish/lact/Dv360/300x250/JnJ_Motilegas_Nov_2020_Dv360_300x250_lact.zip?s=26b62813311afe4beae8708c9df90df8",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Dv360_300x250_lact_1.png?s=5e0c803baa940e4a4cf1c7c5f8dcab85",
+        "JnJ_Motilegas_Nov_2020_Dv360_300x250_lact_2.png?s=7d8ff114d2688990efecd340f205aabe",
+        "JnJ_Motilegas_Nov_2020_Dv360_300x250_lact_3.png?s=b0f589700941efc510c57663b1668788",
+        "JnJ_Motilegas_Nov_2020_Dv360_300x250_lact_4.png?s=930049e68871cf3e09f258ab26cc7546"
+      ],
+      "lastError": null
+    },
+    "/Dv360/300x250/office": {
+      "name": "/Dv360/300x250/office",
+      "section": "",
+      "publisher": "Dv360",
+      "platform": "Google",
+      "formatName": "300x250",
+      "format": {
+        "width": 300,
+        "height": 250,
+        "isRubber": false
+      },
+      "feed": "office",
+      "state": "completed",
+      "updateTime": 1606981041671,
+      "creativeWeight": 148276,
+      "backupWeight": 134196,
+      "backupPath": "/Publish/office/Dv360/300x250/JnJ_Motilegas_Nov_2020_Dv360_300x250_office_stop.gif?s=6abeeb2e986d3cf7169299d8e6c76e45",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Dv360_300x250_office.html?s=2919cae0c5bb286b151af34ae9299c0b",
+      "framesPath": "/Frames/office/Dv360/300x250/",
+      "zipPath": "/Publish/office/Dv360/300x250/JnJ_Motilegas_Nov_2020_Dv360_300x250_office.zip?s=ca2bb73b242ea15941aa1cbd28600ebc",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Dv360_300x250_office_1.png?s=75f543f3f6a5fb0e57d479e68d53dd20",
+        "JnJ_Motilegas_Nov_2020_Dv360_300x250_office_2.png?s=0574733fe468f2f269bdb616d8ba2e01",
+        "JnJ_Motilegas_Nov_2020_Dv360_300x250_office_3.png?s=35a4b8007efafe74869edfdf67692ffa",
+        "JnJ_Motilegas_Nov_2020_Dv360_300x250_office_4.png?s=7e792e405ae9efd535f88b1c145d8c70"
+      ],
+      "lastError": null
+    },
+    "/Dv360/336x280/lact": {
+      "name": "/Dv360/336x280/lact",
+      "section": "",
+      "publisher": "Dv360",
+      "platform": "Google",
+      "formatName": "336x280",
+      "format": {
+        "width": 336,
+        "height": 280,
+        "isRubber": false
+      },
+      "feed": "lact",
+      "state": "completed",
+      "updateTime": 1606981066264,
+      "creativeWeight": 148259,
+      "backupWeight": 150373,
+      "backupPath": "/Publish/lact/Dv360/336x280/JnJ_Motilegas_Nov_2020_Dv360_336x280_lact_stop.gif?s=2be4bb38101784957132799557e64681",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Dv360_336x280_lact.html?s=f0548b04d691192cf100dfcfae993a1a",
+      "framesPath": "/Frames/lact/Dv360/336x280/",
+      "zipPath": "/Publish/lact/Dv360/336x280/JnJ_Motilegas_Nov_2020_Dv360_336x280_lact.zip?s=4cce0658a2fef6f7a8d0c1892ed173e3",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Dv360_336x280_lact_1.png?s=82b1f37fe314f8b91782cd33eb5b78e8",
+        "JnJ_Motilegas_Nov_2020_Dv360_336x280_lact_2.png?s=70228d2be84670db1d48a6fcb49fd9a1",
+        "JnJ_Motilegas_Nov_2020_Dv360_336x280_lact_3.png?s=eab7ee87d9a8e24e9c4cf6b10c8d2437",
+        "JnJ_Motilegas_Nov_2020_Dv360_336x280_lact_4.png?s=0f9a161eedfe9f0504aaa38f1de73ee8"
+      ],
+      "lastError": null
+    },
+    "/Dv360/336x280/office": {
+      "name": "/Dv360/336x280/office",
+      "section": "",
+      "publisher": "Dv360",
+      "platform": "Google",
+      "formatName": "336x280",
+      "format": {
+        "width": 336,
+        "height": 280,
+        "isRubber": false
+      },
+      "feed": "office",
+      "state": "completed",
+      "updateTime": 1606981090666,
+      "creativeWeight": 148261,
+      "backupWeight": 150230,
+      "backupPath": "/Publish/office/Dv360/336x280/JnJ_Motilegas_Nov_2020_Dv360_336x280_office_stop.gif?s=58db4fe5e4a355b3ca39a83b8d2db5e1",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Dv360_336x280_office.html?s=652c1d80e141d24aa14d0ffa92da8fb9",
+      "framesPath": "/Frames/office/Dv360/336x280/",
+      "zipPath": "/Publish/office/Dv360/336x280/JnJ_Motilegas_Nov_2020_Dv360_336x280_office.zip?s=bde401b4fd4f992af8f3afa37869e506",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Dv360_336x280_office_1.png?s=59fe49adb729e6b1b1b86bc7f21afc68",
+        "JnJ_Motilegas_Nov_2020_Dv360_336x280_office_2.png?s=1607e7e730648dcc9078841010c5c5f0",
+        "JnJ_Motilegas_Nov_2020_Dv360_336x280_office_3.png?s=250c147eb66c87498fea3796fa0064bd",
+        "JnJ_Motilegas_Nov_2020_Dv360_336x280_office_4.png?s=6e4125866d36f258f7fb0d88933c0f49"
+      ],
+      "lastError": null
+    },
+    "/AdSpector/240x400/lact": {
+      "name": "/AdSpector/240x400/lact",
+      "section": "",
+      "publisher": "AdSpector",
+      "platform": "Google",
+      "formatName": "240x400",
+      "format": {
+        "width": 240,
+        "height": 400,
+        "isRubber": false
+      },
+      "feed": "lact",
+      "state": "completed",
+      "updateTime": 1606981109811,
+      "creativeWeight": 150773,
+      "backupWeight": 132970,
+      "backupPath": "/Publish/lact/AdSpector/240x400/JnJ_Motilegas_Nov_2020_AdSpector_240x400_lact.gif?s=47d69cc06a212586392e74cd1d2c57d7",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_AdSpector_240x400_lact.html?s=dd6a92618758d259b1411a0e353c735a",
+      "framesPath": "/Frames/lact/AdSpector/240x400/",
+      "zipPath": "/Publish/lact/AdSpector/240x400/JnJ_Motilegas_Nov_2020_AdSpector_240x400_lact.zip?s=e31187629f8be19d50edead669365a59",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_AdSpector_240x400_lact_1.png?s=d271595f67f0f6c671867c8871c16526",
+        "JnJ_Motilegas_Nov_2020_AdSpector_240x400_lact_2.png?s=f6fe7076f2178d746a9dce3692f12bd9",
+        "JnJ_Motilegas_Nov_2020_AdSpector_240x400_lact_3.png?s=312911888adb850bccf6e3f7bb2f6163",
+        "JnJ_Motilegas_Nov_2020_AdSpector_240x400_lact_4.png?s=3b9587f81f8179b3aa377a10abc71193"
+      ],
+      "lastError": null
+    },
+    "/AdSpector/728x90/lact": {
+      "name": "/AdSpector/728x90/lact",
+      "section": "",
+      "publisher": "AdSpector",
+      "platform": "Google",
+      "formatName": "728x90",
+      "format": {
+        "width": 728,
+        "height": 90,
+        "isRubber": false
+      },
+      "feed": "lact",
+      "state": "completed",
+      "updateTime": 1606981129093,
+      "creativeWeight": 149669,
+      "backupWeight": 85090,
+      "backupPath": "/Publish/lact/AdSpector/728x90/JnJ_Motilegas_Nov_2020_AdSpector_728x90_lact.gif?s=a9d90992b3b71d7076ff0f1dd225a0ef",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_AdSpector_728x90_lact.html?s=8c2081fa55da79a85d20daa11ce7a245",
+      "framesPath": "/Frames/lact/AdSpector/728x90/",
+      "zipPath": "/Publish/lact/AdSpector/728x90/JnJ_Motilegas_Nov_2020_AdSpector_728x90_lact.zip?s=a564f3fc87016a293386228cb8a80f30",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_AdSpector_728x90_lact_1.png?s=fccaea64d781c4fb264b557c21915b0e",
+        "JnJ_Motilegas_Nov_2020_AdSpector_728x90_lact_2.png?s=898608e8ca853a35b735ffc15c0f741d",
+        "JnJ_Motilegas_Nov_2020_AdSpector_728x90_lact_3.png?s=381faa558f7941d79f08897e33a05e85",
+        "JnJ_Motilegas_Nov_2020_AdSpector_728x90_lact_4.png?s=1d86ddce4bb2bfcd87ba7e5f62cede56"
+      ],
+      "lastError": null
+    },
+    "/AdSpector/160x600/lact": {
+      "name": "/AdSpector/160x600/lact",
+      "section": "",
+      "publisher": "AdSpector",
+      "platform": "Google",
+      "formatName": "160x600",
+      "format": {
+        "width": 160,
+        "height": 600,
+        "isRubber": false
+      },
+      "feed": "lact",
+      "state": "completed",
+      "updateTime": 1606981147958,
+      "creativeWeight": 149809,
+      "backupWeight": 131413,
+      "backupPath": "/Publish/lact/AdSpector/160x600/JnJ_Motilegas_Nov_2020_AdSpector_160x600_lact.gif?s=ed561b6b5baa861c3b6c73f4bdff8579",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_AdSpector_160x600_lact.html?s=16ce546932e2f2316e1a770de0bed8dd",
+      "framesPath": "/Frames/lact/AdSpector/160x600/",
+      "zipPath": "/Publish/lact/AdSpector/160x600/JnJ_Motilegas_Nov_2020_AdSpector_160x600_lact.zip?s=e51699295964f18dbc4ce9c72398741e",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_AdSpector_160x600_lact_1.png?s=c728d8ef8be7bd175f2914714cd93b0a",
+        "JnJ_Motilegas_Nov_2020_AdSpector_160x600_lact_2.png?s=d8dda6ed51dce367722f7a25841700c5",
+        "JnJ_Motilegas_Nov_2020_AdSpector_160x600_lact_3.png?s=a665e01423d97dee89cf0524a3d9c566",
+        "JnJ_Motilegas_Nov_2020_AdSpector_160x600_lact_4.png?s=3eeff67869108ed8763fd06e866cfcad"
+      ],
+      "lastError": null
+    },
+    "/AdSpector/300x250/lact": {
+      "name": "/AdSpector/300x250/lact",
+      "section": "",
+      "publisher": "AdSpector",
+      "platform": "Google",
+      "formatName": "300x250",
+      "format": {
+        "width": 300,
+        "height": 250,
+        "isRubber": false
+      },
+      "feed": "lact",
+      "state": "completed",
+      "updateTime": 1606981167680,
+      "creativeWeight": 147885,
+      "backupWeight": 119581,
+      "backupPath": "/Publish/lact/AdSpector/300x250/JnJ_Motilegas_Nov_2020_AdSpector_300x250_lact.gif?s=83618cb25077c7cf59ab7e8255ecbe1e",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_AdSpector_300x250_lact.html?s=9d80c8906212d17bb19340acfd203f32",
+      "framesPath": "/Frames/lact/AdSpector/300x250/",
+      "zipPath": "/Publish/lact/AdSpector/300x250/JnJ_Motilegas_Nov_2020_AdSpector_300x250_lact.zip?s=2277f504927eb9a6caacb6a1dc7aff55",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_AdSpector_300x250_lact_1.png?s=c7067a0c04bacc2b637352ce42c38340",
+        "JnJ_Motilegas_Nov_2020_AdSpector_300x250_lact_2.png?s=ec00f648d4c658d44e5ff935c229eb98",
+        "JnJ_Motilegas_Nov_2020_AdSpector_300x250_lact_3.png?s=ae8740ee769e5cb208c577935c4840d1",
+        "JnJ_Motilegas_Nov_2020_AdSpector_300x250_lact_4.png?s=5e344af8f4cace5b5718f4e2e40439ff"
+      ],
+      "lastError": null
+    },
+    "/AdSpector/300x250/office": {
+      "name": "/AdSpector/300x250/office",
+      "section": "",
+      "publisher": "AdSpector",
+      "platform": "Google",
+      "formatName": "300x250",
+      "format": {
+        "width": 300,
+        "height": 250,
+        "isRubber": false
+      },
+      "feed": "office",
+      "state": "completed",
+      "updateTime": 1606981187282,
+      "creativeWeight": 147886,
+      "backupWeight": 120163,
+      "backupPath": "/Publish/office/AdSpector/300x250/JnJ_Motilegas_Nov_2020_AdSpector_300x250_office.gif?s=c7ee58df8de16dd2b4e432021b7950dd",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_AdSpector_300x250_office.html?s=5ab494a1b3973dd06c796c137cbe82d0",
+      "framesPath": "/Frames/office/AdSpector/300x250/",
+      "zipPath": "/Publish/office/AdSpector/300x250/JnJ_Motilegas_Nov_2020_AdSpector_300x250_office.zip?s=ec1f3b4acd3945f08844373fc6322787",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_AdSpector_300x250_office_1.png?s=655b492f4720c42436fd82ec2dc5fa8d",
+        "JnJ_Motilegas_Nov_2020_AdSpector_300x250_office_2.png?s=fa201801403e4d6f6fc799b20b52f262",
+        "JnJ_Motilegas_Nov_2020_AdSpector_300x250_office_3.png?s=61c28a136c1b330c2395e34c0e811afb",
+        "JnJ_Motilegas_Nov_2020_AdSpector_300x250_office_4.png?s=d44fa2f58240674d6d76f15f1ca06bc2"
+      ],
+      "lastError": null
+    },
+    "/AdSpector/336x280/lact": {
+      "name": "/AdSpector/336x280/lact",
+      "section": "",
+      "publisher": "AdSpector",
+      "platform": "Google",
+      "formatName": "336x280",
+      "format": {
+        "width": 336,
+        "height": 280,
+        "isRubber": false
+      },
+      "feed": "lact",
+      "state": "completed",
+      "updateTime": 1606981206912,
+      "creativeWeight": 147871,
+      "backupWeight": 136674,
+      "backupPath": "/Publish/lact/AdSpector/336x280/JnJ_Motilegas_Nov_2020_AdSpector_336x280_lact.gif?s=863114bc09e594592764d8696893c504",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_AdSpector_336x280_lact.html?s=8b9fe488bfb193ad60268129534e5c51",
+      "framesPath": "/Frames/lact/AdSpector/336x280/",
+      "zipPath": "/Publish/lact/AdSpector/336x280/JnJ_Motilegas_Nov_2020_AdSpector_336x280_lact.zip?s=4f03bc0e89b7013afa1fefc9aa649917",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_AdSpector_336x280_lact_1.png?s=e074d17010f6dc9f837991dd6fc8c768",
+        "JnJ_Motilegas_Nov_2020_AdSpector_336x280_lact_2.png?s=45644102a26a636eea643ad60178612a",
+        "JnJ_Motilegas_Nov_2020_AdSpector_336x280_lact_3.png?s=138d60194a36edb543883f84c0eb0772",
+        "JnJ_Motilegas_Nov_2020_AdSpector_336x280_lact_4.png?s=6de8d6a14efe170283d75a9e4d77c944"
+      ],
+      "lastError": null
+    },
+    "/AdSpector/336x280/office": {
+      "name": "/AdSpector/336x280/office",
+      "section": "",
+      "publisher": "AdSpector",
+      "platform": "Google",
+      "formatName": "336x280",
+      "format": {
+        "width": 336,
+        "height": 280,
+        "isRubber": false
+      },
+      "feed": "office",
+      "state": "completed",
+      "updateTime": 1606981226768,
+      "creativeWeight": 147873,
+      "backupWeight": 136628,
+      "backupPath": "/Publish/office/AdSpector/336x280/JnJ_Motilegas_Nov_2020_AdSpector_336x280_office.gif?s=c42fe9d2515aafdd5ba870980010d65c",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_AdSpector_336x280_office.html?s=aecf8c90dc528d3848b4e92f279f5c5b",
+      "framesPath": "/Frames/office/AdSpector/336x280/",
+      "zipPath": "/Publish/office/AdSpector/336x280/JnJ_Motilegas_Nov_2020_AdSpector_336x280_office.zip?s=b7895c2c72b9ff4eff5f2c48b5a64d7c",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_AdSpector_336x280_office_1.png?s=0be09284f78e0cef76fc718df68ccb2c",
+        "JnJ_Motilegas_Nov_2020_AdSpector_336x280_office_2.png?s=a7981166c7df6af10aedf0b464f3fbec",
+        "JnJ_Motilegas_Nov_2020_AdSpector_336x280_office_3.png?s=033f22067303e1e060e80d6e7be5c13f",
+        "JnJ_Motilegas_Nov_2020_AdSpector_336x280_office_4.png?s=55f2c711053f92a57159a5b5eb5fa26b"
+      ],
+      "lastError": null
+    },
+    "/Dv360/970x250/office": {
+      "name": "/Dv360/970x250/office",
+      "section": "",
+      "publisher": "Dv360",
+      "platform": "Google",
+      "formatName": "970x250",
+      "format": {
+        "width": 970,
+        "height": 250,
+        "isRubber": false
+      },
+      "feed": "office",
+      "state": "completed",
+      "updateTime": 1606981266246,
+      "creativeWeight": 148035,
+      "backupWeight": 149442,
+      "backupPath": "/Publish/office/Dv360/970x250/JnJ_Motilegas_Nov_2020_Dv360_970x250_office_stop.gif?s=c4bdbc4f18ad5cf94f41ffa45d06ebf4",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Dv360_970x250_office.html?s=dfc778e20375eecbcc0e0b265d2df50d",
+      "framesPath": "/Frames/office/Dv360/970x250/",
+      "zipPath": "/Publish/office/Dv360/970x250/JnJ_Motilegas_Nov_2020_Dv360_970x250_office.zip?s=b0aa3bf5a795cfb78951c13916236705",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Dv360_970x250_office_1.png?s=c7d24ba030e16c5c3ce1c7c0404b05f7",
+        "JnJ_Motilegas_Nov_2020_Dv360_970x250_office_2.png?s=ad9d516d1fd999e30d23c2a98654aa18",
+        "JnJ_Motilegas_Nov_2020_Dv360_970x250_office_3.png?s=a850311513ca85941242455b3fefe80e",
+        "JnJ_Motilegas_Nov_2020_Dv360_970x250_office_4.png?s=ca68f5bc4a20a043f61936b0bf4c0d78"
+      ],
+      "lastError": null
+    },
+    "/Dv360/580x400/office": {
+      "name": "/Dv360/580x400/office",
+      "section": "",
+      "publisher": "Dv360",
+      "platform": "Google",
+      "formatName": "580x400",
+      "format": {
+        "width": 580,
+        "height": 400,
+        "isRubber": false
+      },
+      "feed": "office",
+      "state": "completed",
+      "updateTime": 1606981310259,
+      "creativeWeight": 149690,
+      "backupWeight": 145174,
+      "backupPath": "/Publish/office/Dv360/580x400/JnJ_Motilegas_Nov_2020_Dv360_580x400_office_stop.gif?s=c1abe4fc3545c0ac86ab61599adcfda3",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Dv360_580x400_office.html?s=4bdc59fb148e9943852555a4d9361efd",
+      "framesPath": "/Frames/office/Dv360/580x400/",
+      "zipPath": "/Publish/office/Dv360/580x400/JnJ_Motilegas_Nov_2020_Dv360_580x400_office.zip?s=9ef294e22537d8ba707827a4fd10e5db",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Dv360_580x400_office_1.png?s=539f17ad36aefce3b5be3d362ae116df",
+        "JnJ_Motilegas_Nov_2020_Dv360_580x400_office_2.png?s=1c9749e4e8dbb966dbbf27efd0413641",
+        "JnJ_Motilegas_Nov_2020_Dv360_580x400_office_3.png?s=98f3af5cdc035f5438e29c182f13fe8d",
+        "JnJ_Motilegas_Nov_2020_Dv360_580x400_office_4.png?s=47bab432e671fe2b924c8d77bd15cebb"
+      ],
+      "lastError": null
+    },
+    "/AdSpector/300x250/esp": {
+      "name": "/AdSpector/300x250/esp",
+      "section": "",
+      "publisher": "AdSpector",
+      "platform": "Google",
+      "formatName": "300x250",
+      "format": {
+        "width": 300,
+        "height": 250,
+        "isRubber": false
+      },
+      "feed": "esp",
+      "state": "completed",
+      "updateTime": 1606981326023,
+      "creativeWeight": 148738,
+      "backupWeight": 125597,
+      "backupPath": "/Publish/esp/AdSpector/300x250/JnJ_Motilegas_Nov_2020_AdSpector_300x250_esp.gif?s=f1a1ec9464d916574ae0e348e97204bf",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_AdSpector_300x250_esp.html?s=a997441d9ae28512e2c98a14fdf7d215",
+      "framesPath": "/Frames/esp/AdSpector/300x250/",
+      "zipPath": "/Publish/esp/AdSpector/300x250/JnJ_Motilegas_Nov_2020_AdSpector_300x250_esp.zip?s=42a923b4dbf2d10cfaf78e92a20bf6c9",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_AdSpector_300x250_esp_1.png?s=d7d8cff9096f5c9590659c6c215041d3",
+        "JnJ_Motilegas_Nov_2020_AdSpector_300x250_esp_2.png?s=fab7ef1bdc642ea20c8ada1815e0e9cd",
+        "JnJ_Motilegas_Nov_2020_AdSpector_300x250_esp_3.png?s=c5b44482f8bf3b74fa2d817f46eebb4d",
+        "JnJ_Motilegas_Nov_2020_AdSpector_300x250_esp_4.png?s=3360c2872c9a08beae8d4f4b5d9bc079"
+      ],
+      "lastError": null
+    },
+    "/AdSpector/240x400/esp": {
+      "name": "/AdSpector/240x400/esp",
+      "section": "",
+      "publisher": "AdSpector",
+      "platform": "Google",
+      "formatName": "240x400",
+      "format": {
+        "width": 240,
+        "height": 400,
+        "isRubber": false
+      },
+      "feed": "esp",
+      "state": "completed",
+      "updateTime": 1606981341864,
+      "creativeWeight": 150528,
+      "backupWeight": 138981,
+      "backupPath": "/Publish/esp/AdSpector/240x400/JnJ_Motilegas_Nov_2020_AdSpector_240x400_esp.gif?s=b5de608defbcda7358eba2180f854770",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_AdSpector_240x400_esp.html?s=271aea22d255f45fff7b2d7eafe28433",
+      "framesPath": "/Frames/esp/AdSpector/240x400/",
+      "zipPath": "/Publish/esp/AdSpector/240x400/JnJ_Motilegas_Nov_2020_AdSpector_240x400_esp.zip?s=d54b022696128e537d0f9400698a4808",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_AdSpector_240x400_esp_1.png?s=0662b2e38d91d7d814cfd80fcde2f30d",
+        "JnJ_Motilegas_Nov_2020_AdSpector_240x400_esp_2.png?s=d7d690219c596a90111a90faca8cba11",
+        "JnJ_Motilegas_Nov_2020_AdSpector_240x400_esp_3.png?s=c469d56ef7d7cbed145703cc298b2fcc",
+        "JnJ_Motilegas_Nov_2020_AdSpector_240x400_esp_4.png?s=37a78f2dc8d81983cf216f88fdd8241f"
+      ],
+      "lastError": null
+    },
+    "/AdSpector/728x90/esp": {
+      "name": "/AdSpector/728x90/esp",
+      "section": "",
+      "publisher": "AdSpector",
+      "platform": "Google",
+      "formatName": "728x90",
+      "format": {
+        "width": 728,
+        "height": 90,
+        "isRubber": false
+      },
+      "feed": "esp",
+      "state": "completed",
+      "updateTime": 1606981356103,
+      "creativeWeight": 150817,
+      "backupWeight": 87640,
+      "backupPath": "/Publish/esp/AdSpector/728x90/JnJ_Motilegas_Nov_2020_AdSpector_728x90_esp.gif?s=bad5ecbf963baf8db8ca96a5f89ca7f3",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_AdSpector_728x90_esp.html?s=da65fcde77bed29e98c2c9510e414fa0",
+      "framesPath": "/Frames/esp/AdSpector/728x90/",
+      "zipPath": "/Publish/esp/AdSpector/728x90/JnJ_Motilegas_Nov_2020_AdSpector_728x90_esp.zip?s=c322e3e0bf6408463d024b10fa408930",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_AdSpector_728x90_esp_1.png?s=6de63451e4d7a967dcdcd6b74d5c98bb",
+        "JnJ_Motilegas_Nov_2020_AdSpector_728x90_esp_2.png?s=32b7c62437893656f2a05863b55771aa",
+        "JnJ_Motilegas_Nov_2020_AdSpector_728x90_esp_3.png?s=5d1e6db47124e24d41a70597054d8f19",
+        "JnJ_Motilegas_Nov_2020_AdSpector_728x90_esp_4.png?s=1a3af138aa9f5b7bc4fc791a8905abb6"
+      ],
+      "lastError": null
+    },
+    "/AdSpector/160x600/esp": {
+      "name": "/AdSpector/160x600/esp",
+      "section": "",
+      "publisher": "AdSpector",
+      "platform": "Google",
+      "formatName": "160x600",
+      "format": {
+        "width": 160,
+        "height": 600,
+        "isRubber": false
+      },
+      "feed": "esp",
+      "state": "completed",
+      "updateTime": 1606981372159,
+      "creativeWeight": 150331,
+      "backupWeight": 134114,
+      "backupPath": "/Publish/esp/AdSpector/160x600/JnJ_Motilegas_Nov_2020_AdSpector_160x600_esp.gif?s=a4444b27420e0a4f8db24b3e9fc4e8f7",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_AdSpector_160x600_esp.html?s=c5262fd1431139a50422a66d6be40b03",
+      "framesPath": "/Frames/esp/AdSpector/160x600/",
+      "zipPath": "/Publish/esp/AdSpector/160x600/JnJ_Motilegas_Nov_2020_AdSpector_160x600_esp.zip?s=059741ca795ce499187a5c6031b83dfc",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_AdSpector_160x600_esp_1.png?s=987835f1edeca714cbbc702d7d193b5e",
+        "JnJ_Motilegas_Nov_2020_AdSpector_160x600_esp_2.png?s=184eb4e1191b2e97441d5fa2c7768dec",
+        "JnJ_Motilegas_Nov_2020_AdSpector_160x600_esp_3.png?s=e97aabe78a1b72308751aada54d32450",
+        "JnJ_Motilegas_Nov_2020_AdSpector_160x600_esp_4.png?s=a50611349f01e79b930630f2c036c203"
+      ],
+      "lastError": null
+    },
+    "/AdSpector/336x280/esp": {
+      "name": "/AdSpector/336x280/esp",
+      "section": "",
+      "publisher": "AdSpector",
+      "platform": "Google",
+      "formatName": "336x280",
+      "format": {
+        "width": 336,
+        "height": 280,
+        "isRubber": false
+      },
+      "feed": "esp",
+      "state": "completed",
+      "updateTime": 1606981388145,
+      "creativeWeight": 148889,
+      "backupWeight": 143242,
+      "backupPath": "/Publish/esp/AdSpector/336x280/JnJ_Motilegas_Nov_2020_AdSpector_336x280_esp.gif?s=9969037191fe0fb6ce71aaf6ba4f8e70",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_AdSpector_336x280_esp.html?s=8e4474a7eb94de9ffc06bd0624b5ac2c",
+      "framesPath": "/Frames/esp/AdSpector/336x280/",
+      "zipPath": "/Publish/esp/AdSpector/336x280/JnJ_Motilegas_Nov_2020_AdSpector_336x280_esp.zip?s=8b9ec29ded84feb5dadff5bcda89f071",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_AdSpector_336x280_esp_1.png?s=740093975f9842981c16a24d90a423cf",
+        "JnJ_Motilegas_Nov_2020_AdSpector_336x280_esp_2.png?s=76a01b0bf97c2b7c40c5e02f3fef8c88",
+        "JnJ_Motilegas_Nov_2020_AdSpector_336x280_esp_3.png?s=0948672204ffacb5facaf5bc42a28d18",
+        "JnJ_Motilegas_Nov_2020_AdSpector_336x280_esp_4.png?s=cc9ba9b5dc8ca5d58ab45b6f8d21b092"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Google/300x250/other": {
+      "name": "/Segmento - Google/300x250/other",
+      "section": "",
+      "publisher": "Segmento - Google",
+      "platform": "Google",
+      "formatName": "300x250",
+      "format": {
+        "width": 300,
+        "height": 250,
+        "isRubber": false
+      },
+      "feed": "other",
+      "state": "completed",
+      "updateTime": 1606981401737,
+      "creativeWeight": 148036,
+      "backupWeight": 118682,
+      "backupPath": "/Publish/other/Segmento - Google/300x250/JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_other.gif?s=aea5b6253da46bfcc8641c9fbd99917a",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_other.html?s=22912a7444e52dddf33989d364e88454",
+      "framesPath": "/Frames/other/Segmento - Google/300x250/",
+      "zipPath": "/Publish/other/Segmento - Google/300x250/JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_other.zip?s=e05daef4becb1fc20a2c742777d37ec1",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_other_1.png?s=3cd9ed6e1a737ebc6abc9d35a31e4f4d",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_other_2.png?s=4deba94d6bbecd44132df013786de6e2",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_other_3.png?s=2dc7e12f83d077306d534932a8edcd1f",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_other_4.png?s=049c59caea98d1b78be403371d605984"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Google/300x600/other": {
+      "name": "/Segmento - Google/300x600/other",
+      "section": "",
+      "publisher": "Segmento - Google",
+      "platform": "Google",
+      "formatName": "300x600",
+      "format": {
+        "width": 300,
+        "height": 600,
+        "isRubber": false
+      },
+      "feed": "other",
+      "state": "completed",
+      "updateTime": 1606981423004,
+      "creativeWeight": 149157,
+      "backupWeight": 150962,
+      "backupPath": "/Publish/other/Segmento - Google/300x600/JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_other.gif?s=d9af9d1e462fcf59c5da186f8d0e2abb",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_other.html?s=e11f2abbb912a94fe1196caaec08cc98",
+      "framesPath": "/Frames/other/Segmento - Google/300x600/",
+      "zipPath": "/Publish/other/Segmento - Google/300x600/JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_other.zip?s=5c953284eccb14e935e7178081628be5",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_other_1.png?s=7c27aa4aed2b233d99b8eb3b6ef65096",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_other_2.png?s=38d48037093a754b81a616da1b79e683",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_other_3.png?s=fd74e26e5e0acb951d1a3eaa8fa5777b",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_other_4.png?s=ac23f28ed3c39d72eeb7a1468d6ee9ed"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Google/240x400/other": {
+      "name": "/Segmento - Google/240x400/other",
+      "section": "",
+      "publisher": "Segmento - Google",
+      "platform": "Google",
+      "formatName": "240x400",
+      "format": {
+        "width": 240,
+        "height": 400,
+        "isRubber": false
+      },
+      "feed": "other",
+      "state": "completed",
+      "updateTime": 1606981436956,
+      "creativeWeight": 148451,
+      "backupWeight": 132050,
+      "backupPath": "/Publish/other/Segmento - Google/240x400/JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_other.gif?s=7322b757eed7ec52fed4a82fb88f09b5",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_other.html?s=f4ba869043e7a530ccbe0fe1a5f6605f",
+      "framesPath": "/Frames/other/Segmento - Google/240x400/",
+      "zipPath": "/Publish/other/Segmento - Google/240x400/JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_other.zip?s=da872e6ddf9f520a5d3da137147e002a",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_other_1.png?s=81f347b8bc866004c73405564c60dbb8",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_other_2.png?s=cbea84ec940e2079649408daa3b5aa1e",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_other_3.png?s=287875c36d66f4dd3e85628f5e5a41cc",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_other_4.png?s=babdbffe8e74748ac435658e6999aea6"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Google/728x90/other": {
+      "name": "/Segmento - Google/728x90/other",
+      "section": "",
+      "publisher": "Segmento - Google",
+      "platform": "Google",
+      "formatName": "728x90",
+      "format": {
+        "width": 728,
+        "height": 90,
+        "isRubber": false
+      },
+      "feed": "other",
+      "state": "completed",
+      "updateTime": 1606981452310,
+      "creativeWeight": 149397,
+      "backupWeight": 79474,
+      "backupPath": "/Publish/other/Segmento - Google/728x90/JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_other.gif?s=98b988b979361b49f63d4fa4812455e1",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_other.html?s=54e5d168ace5f10bda7ea0f6dbcc0507",
+      "framesPath": "/Frames/other/Segmento - Google/728x90/",
+      "zipPath": "/Publish/other/Segmento - Google/728x90/JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_other.zip?s=83c293ef174005dc2720d99674bea576",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_other_1.png?s=98f3c6b4287d66e2ccd18b84afd1d55f",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_other_2.png?s=5f7c40428e982e02d1fb1231b4e331ac",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_other_3.png?s=8382157bd8acf00dc6388ef5bbcafb31",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_other_4.png?s=af335572a86607edf909772639b0273d"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Yandex/300x250/other": {
+      "name": "/Segmento - Yandex/300x250/other",
+      "section": "",
+      "publisher": "Segmento - Yandex",
+      "platform": "YandexApi",
+      "formatName": "300x250",
+      "format": {
+        "width": 300,
+        "height": 250,
+        "isRubber": false
+      },
+      "feed": "other",
+      "state": "completed",
+      "updateTime": 1606981475769,
+      "creativeWeight": 149001,
+      "backupWeight": 58531,
+      "backupPath": "/Publish/other/Segmento - Yandex/300x250/JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x250_other.gif?s=639756eba6b5b2b9a56e9ca2149d718f",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x250_other.html?s=94d08911e222cab50e87b1c4a9f7df5d",
+      "framesPath": "/Frames/other/Segmento - Yandex/300x250/",
+      "zipPath": "/Publish/other/Segmento - Yandex/300x250/JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x250_other.zip?s=4e5a4a573e94aeb979a12deb15192d51",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x250_other_1.png?s=04af3a92610fb4b3ce6a51ef065017ef",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x250_other_2.png?s=99ae142d883cc3099da73f37f1a46e31",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x250_other_3.png?s=43e4ebc72ab9dabc79f12b20e93536bc",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x250_other_4.png?s=fe8776b1b24d7b033d2d2df7660e1ccc"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Yandex/300x600/other": {
+      "name": "/Segmento - Yandex/300x600/other",
+      "section": "",
+      "publisher": "Segmento - Yandex",
+      "platform": "YandexApi",
+      "formatName": "300x600",
+      "format": {
+        "width": 300,
+        "height": 600,
+        "isRubber": false
+      },
+      "feed": "other",
+      "state": "completed",
+      "updateTime": 1606981507175,
+      "creativeWeight": 149998,
+      "backupWeight": 60623,
+      "backupPath": "/Publish/other/Segmento - Yandex/300x600/JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x600_other.gif?s=0a4ac6ebcc1d3e665602e51dec73060d",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x600_other.html?s=be4d46dc74d9dc6c51df8eb773da83e5",
+      "framesPath": "/Frames/other/Segmento - Yandex/300x600/",
+      "zipPath": "/Publish/other/Segmento - Yandex/300x600/JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x600_other.zip?s=0ba7cd29e4cb3a70ffb7428ebc496674",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x600_other_1.png?s=4fd6dd09f3b37e38c65dca04616c8cf3",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x600_other_2.png?s=6a1e5a60fe62a27d248b5234d421ce14",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x600_other_3.png?s=2639fedc10d216200c960b1d57e0f41b",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x600_other_4.png?s=6eaccc27b9044c5be7c003ebc687b72a"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Yandex/240x400/other": {
+      "name": "/Segmento - Yandex/240x400/other",
+      "section": "",
+      "publisher": "Segmento - Yandex",
+      "platform": "YandexApi",
+      "formatName": "240x400",
+      "format": {
+        "width": 240,
+        "height": 400,
+        "isRubber": false
+      },
+      "feed": "other",
+      "state": "completed",
+      "updateTime": 1606981531629,
+      "creativeWeight": 149455,
+      "backupWeight": 58681,
+      "backupPath": "/Publish/other/Segmento - Yandex/240x400/JnJ_Motilegas_Nov_2020_Segmento_Yandex_240x400_other.gif?s=46c33883822d2228e4327f9af3208de3",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Yandex_240x400_other.html?s=dad7b6d679ccf0f84204442104e79bbd",
+      "framesPath": "/Frames/other/Segmento - Yandex/240x400/",
+      "zipPath": "/Publish/other/Segmento - Yandex/240x400/JnJ_Motilegas_Nov_2020_Segmento_Yandex_240x400_other.zip?s=0e72be38e1bdc7a2f75d8d50eec501e6",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_240x400_other_1.png?s=65afc52bb92ba5a44131f720664e8983",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_240x400_other_2.png?s=7cd9b7c23bc80fa6996d45804c5d82fe",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_240x400_other_3.png?s=3ac754a0d621b83cc210233f165e6de5",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_240x400_other_4.png?s=1bd672df7e756a2c19862d3309877a4f"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Yandex/728x90/other": {
+      "name": "/Segmento - Yandex/728x90/other",
+      "section": "",
+      "publisher": "Segmento - Yandex",
+      "platform": "YandexApi",
+      "formatName": "728x90",
+      "format": {
+        "width": 728,
+        "height": 90,
+        "isRubber": false
+      },
+      "feed": "other",
+      "state": "completed",
+      "updateTime": 1606981552120,
+      "creativeWeight": 148513,
+      "backupWeight": 56987,
+      "backupPath": "/Publish/other/Segmento - Yandex/728x90/JnJ_Motilegas_Nov_2020_Segmento_Yandex_728x90_other.gif?s=ebeef1499199948e2ab1a83cd189ca38",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Yandex_728x90_other.html?s=72d5bf3ea03ee73a00e82cdbdb7b32e8",
+      "framesPath": "/Frames/other/Segmento - Yandex/728x90/",
+      "zipPath": "/Publish/other/Segmento - Yandex/728x90/JnJ_Motilegas_Nov_2020_Segmento_Yandex_728x90_other.zip?s=2d9046b2cac080c45b2a36f1d2ead234",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_728x90_other_1.png?s=7d4c1804e89c7f8d3e4f59ee67820a03",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_728x90_other_2.png?s=df774083196ff7e158a5f9efcc5d8461",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_728x90_other_3.png?s=0396bc6d725931b9aacf778fc389c59e",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_728x90_other_4.png?s=f74b68763a88e8881833f6041776e4c6"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Google/300x250/common": {
+      "name": "/Segmento - Google/300x250/common",
+      "section": "",
+      "publisher": "Segmento - Google",
+      "platform": "Google",
+      "formatName": "300x250",
+      "format": {
+        "width": 300,
+        "height": 250,
+        "isRubber": false
+      },
+      "feed": "common",
+      "state": "completed",
+      "updateTime": 1606981560858,
+      "creativeWeight": 148987,
+      "backupWeight": 87969,
+      "backupPath": "/Publish/common/Segmento - Google/300x250/JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_common.gif?s=4b51cabc0b6085887b0a1a8e47a9f005",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_common.html?s=2cf9a502e3f99cfe161667e213341ab5",
+      "framesPath": "/Frames/common/Segmento - Google/300x250/",
+      "zipPath": "/Publish/common/Segmento - Google/300x250/JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_common.zip?s=c981338a09b4aa8d9ca0523d0e2e87b0",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_common_1.png?s=dc01a755b732a410525c9a7e7dc66bd2",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_common_2.png?s=8c3ebe3c17c2abf87e9bbe59bbadc06e",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x250_common_3.png?s=410c9746f38f7212939c0f2d6058f828"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Google/300x600/common": {
+      "name": "/Segmento - Google/300x600/common",
+      "section": "",
+      "publisher": "Segmento - Google",
+      "platform": "Google",
+      "formatName": "300x600",
+      "format": {
+        "width": 300,
+        "height": 600,
+        "isRubber": false
+      },
+      "feed": "common",
+      "state": "completed",
+      "updateTime": 1606981571275,
+      "creativeWeight": 149271,
+      "backupWeight": 146285,
+      "backupPath": "/Publish/common/Segmento - Google/300x600/JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_common.gif?s=8ba12345d6a3c5418179e6111db4a183",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_common.html?s=2d689d9dc6ecbca97fec05085a75b196",
+      "framesPath": "/Frames/common/Segmento - Google/300x600/",
+      "zipPath": "/Publish/common/Segmento - Google/300x600/JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_common.zip?s=86bc96aab561965b24e603a510f21eff",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_common_1.png?s=9d11bedd99afc36e3dd5d63034ed1fd7",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_common_2.png?s=906c700c4798e591db77ff0601dfad7b",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_300x600_common_3.png?s=5d21ea08d51d887a702e006972d8f29c"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Google/240x400/common": {
+      "name": "/Segmento - Google/240x400/common",
+      "section": "",
+      "publisher": "Segmento - Google",
+      "platform": "Google",
+      "formatName": "240x400",
+      "format": {
+        "width": 240,
+        "height": 400,
+        "isRubber": false
+      },
+      "feed": "common",
+      "state": "completed",
+      "updateTime": 1606981580149,
+      "creativeWeight": 149471,
+      "backupWeight": 99749,
+      "backupPath": "/Publish/common/Segmento - Google/240x400/JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_common.gif?s=ede3c070c1dd9f9066ec00c07a102208",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_common.html?s=d369eeba5911b2e1aa7892e7a1c2fed3",
+      "framesPath": "/Frames/common/Segmento - Google/240x400/",
+      "zipPath": "/Publish/common/Segmento - Google/240x400/JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_common.zip?s=b2585d8c9e850aebf23e39f7ff54f851",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_common_1.png?s=c0a6a1d2dec5b84fc4f0e864c7bb2f1a",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_common_2.png?s=6e677f55b0b8619d8eaf5667f23dcacc",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_240x400_common_3.png?s=daee48ac37e0133ccf18bd5fbbabee85"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Google/728x90/common": {
+      "name": "/Segmento - Google/728x90/common",
+      "section": "",
+      "publisher": "Segmento - Google",
+      "platform": "Google",
+      "formatName": "728x90",
+      "format": {
+        "width": 728,
+        "height": 90,
+        "isRubber": false
+      },
+      "feed": "common",
+      "state": "completed",
+      "updateTime": 1606981589294,
+      "creativeWeight": 148359,
+      "backupWeight": 63315,
+      "backupPath": "/Publish/common/Segmento - Google/728x90/JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_common.gif?s=7c7ed76073c25d49c3fe725c533c6804",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_common.html?s=12b04ebbf5c783118438b5e9f9f1b9b1",
+      "framesPath": "/Frames/common/Segmento - Google/728x90/",
+      "zipPath": "/Publish/common/Segmento - Google/728x90/JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_common.zip?s=1f0fb0fa38f1aeaf7e8c601de9a2863b",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_common_1.png?s=ba89a59f2c97f0dd92cf86e823138841",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_common_2.png?s=5309661da5f58c9f3fca3f15d7643112",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_728x90_common_3.png?s=eb3e2944936b31871dc81c1f0de9df7d"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Google/336x280/common": {
+      "name": "/Segmento - Google/336x280/common",
+      "section": "",
+      "publisher": "Segmento - Google",
+      "platform": "Google",
+      "formatName": "336x280",
+      "format": {
+        "width": 336,
+        "height": 280,
+        "isRubber": false
+      },
+      "feed": "common",
+      "state": "completed",
+      "updateTime": 1606981598302,
+      "creativeWeight": 148974,
+      "backupWeight": 105528,
+      "backupPath": "/Publish/common/Segmento - Google/336x280/JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_common.gif?s=7bd003f397287038c63b337f99657673",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_common.html?s=6b0aa8fb12f425aa37c28322674edab7",
+      "framesPath": "/Frames/common/Segmento - Google/336x280/",
+      "zipPath": "/Publish/common/Segmento - Google/336x280/JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_common.zip?s=13eeeaab1ed182519ce93c3e930e96a4",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_common_1.png?s=c75b4864e254d00582004304609bbb26",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_common_2.png?s=84e3613bd2d26243fdfe2e6608e79aa1",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_common_3.png?s=fee4358f2c82adcfa16a0cd35da20ff5"
+      ],
+      "lastError": null
+    },
+    "/DCM/300x250/common": {
+      "name": "/DCM/300x250/common",
+      "section": "",
+      "publisher": "DCM",
+      "platform": "Google",
+      "formatName": "300x250",
+      "format": {
+        "width": 300,
+        "height": 250,
+        "isRubber": false
+      },
+      "feed": "common",
+      "state": "completed",
+      "updateTime": 1606981607544,
+      "creativeWeight": 149370,
+      "backupWeight": 120544,
+      "backupPath": "/Publish/common/DCM/300x250/JnJ_Motilegas_Nov_2020_DCM_300x250_common_stop.gif?s=153a77b98b6174231b1b27ccd060931a",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_DCM_300x250_common.html?s=07e11e53b68af942f07074dac90e20c2",
+      "framesPath": "/Frames/common/DCM/300x250/",
+      "zipPath": "/Publish/common/DCM/300x250/JnJ_Motilegas_Nov_2020_DCM_300x250_common.zip?s=45a4c65ca9791283cfb95d8da75e5753",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_DCM_300x250_common_1.png?s=e936580a07687835d3476aa3a9787822",
+        "JnJ_Motilegas_Nov_2020_DCM_300x250_common_2.png?s=92bf1fb417ace7bc8aaba0843e0fd25c",
+        "JnJ_Motilegas_Nov_2020_DCM_300x250_common_3.png?s=05b75cbce268b20cc82fa812ad5d433e"
+      ],
+      "lastError": null
+    },
+    "/DCM/300x600/common": {
+      "name": "/DCM/300x600/common",
+      "section": "",
+      "publisher": "DCM",
+      "platform": "Google",
+      "formatName": "300x600",
+      "format": {
+        "width": 300,
+        "height": 600,
+        "isRubber": false
+      },
+      "feed": "common",
+      "state": "completed",
+      "updateTime": 1606981625834,
+      "creativeWeight": 149681,
+      "backupWeight": 145623,
+      "backupPath": "/Publish/common/DCM/300x600/JnJ_Motilegas_Nov_2020_DCM_300x600_common_stop.gif?s=202232f1a96bb9a10f99812c3102ff90",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_DCM_300x600_common.html?s=448e7b2a3314a77e80adf7b67cf10dba",
+      "framesPath": "/Frames/common/DCM/300x600/",
+      "zipPath": "/Publish/common/DCM/300x600/JnJ_Motilegas_Nov_2020_DCM_300x600_common.zip?s=31588f2049f88d436b573503b765dcda",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_DCM_300x600_common_1.png?s=8a0fc07bbbc5b50485e171f1db278b11",
+        "JnJ_Motilegas_Nov_2020_DCM_300x600_common_2.png?s=a7f9073d68e7e06e336d2f29d54892af",
+        "JnJ_Motilegas_Nov_2020_DCM_300x600_common_3.png?s=ee2b9d5f03ec0aadc4fd0d79edd17f79"
+      ],
+      "lastError": null
+    },
+    "/DCM/970x250/common": {
+      "name": "/DCM/970x250/common",
+      "section": "",
+      "publisher": "DCM",
+      "platform": "Google",
+      "formatName": "970x250",
+      "format": {
+        "width": 970,
+        "height": 250,
+        "isRubber": false
+      },
+      "feed": "common",
+      "state": "completed",
+      "updateTime": 1606981649473,
+      "creativeWeight": 150484,
+      "backupWeight": 148245,
+      "backupPath": "/Publish/common/DCM/970x250/JnJ_Motilegas_Nov_2020_DCM_970x250_common_stop.gif?s=1c1df1d7da2becac3360a8dd4df4a9f0",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_DCM_970x250_common.html?s=86682f4696b626cf865610078184529a",
+      "framesPath": "/Frames/common/DCM/970x250/",
+      "zipPath": "/Publish/common/DCM/970x250/JnJ_Motilegas_Nov_2020_DCM_970x250_common.zip?s=0cc258f9a772357c97b2b79df3f6a8d1",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_DCM_970x250_common_1.png?s=5cf66e5e03a4321a08442032bc587a3d",
+        "JnJ_Motilegas_Nov_2020_DCM_970x250_common_2.png?s=d2daba72b78de47c1e2c5f40a00cff15",
+        "JnJ_Motilegas_Nov_2020_DCM_970x250_common_3.png?s=7726ff90ddb7df317392b92c00915823"
+      ],
+      "lastError": null
+    },
+    "/DCM/580x400/common": {
+      "name": "/DCM/580x400/common",
+      "section": "",
+      "publisher": "DCM",
+      "platform": "Google",
+      "formatName": "580x400",
+      "format": {
+        "width": 580,
+        "height": 400,
+        "isRubber": false
+      },
+      "feed": "common",
+      "state": "completed",
+      "updateTime": 1606981676645,
+      "creativeWeight": 148911,
+      "backupWeight": 144312,
+      "backupPath": "/Publish/common/DCM/580x400/JnJ_Motilegas_Nov_2020_DCM_580x400_common_stop.gif?s=010f5a59e7edc861767ee9a92ca8b8e3",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_DCM_580x400_common.html?s=51bed70bb5d599388708624eacb0ff1d",
+      "framesPath": "/Frames/common/DCM/580x400/",
+      "zipPath": "/Publish/common/DCM/580x400/JnJ_Motilegas_Nov_2020_DCM_580x400_common.zip?s=cc80113375d7a8be9b65a7919601ceb3",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_DCM_580x400_common_1.png?s=2b1d2fc8802382979f384a1e1abaa38a",
+        "JnJ_Motilegas_Nov_2020_DCM_580x400_common_2.png?s=969478575530a4c65896d4190ed81f51",
+        "JnJ_Motilegas_Nov_2020_DCM_580x400_common_3.png?s=6117468792f1fe53c25582318af2a8d9"
+      ],
+      "lastError": null
+    },
+    "/DCM/336x280/common": {
+      "name": "/DCM/336x280/common",
+      "section": "",
+      "publisher": "DCM",
+      "platform": "Google",
+      "formatName": "336x280",
+      "format": {
+        "width": 336,
+        "height": 280,
+        "isRubber": false
+      },
+      "feed": "common",
+      "state": "completed",
+      "updateTime": 1606981685820,
+      "creativeWeight": 149358,
+      "backupWeight": 142420,
+      "backupPath": "/Publish/common/DCM/336x280/JnJ_Motilegas_Nov_2020_DCM_336x280_common_stop.gif?s=067c39b4677eb06caac9cce78179880a",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_DCM_336x280_common.html?s=94a47a901ceca752e0473e71abeb3550",
+      "framesPath": "/Frames/common/DCM/336x280/",
+      "zipPath": "/Publish/common/DCM/336x280/JnJ_Motilegas_Nov_2020_DCM_336x280_common.zip?s=d064faa44112e30f0cd2cedcda89ac88",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_DCM_336x280_common_1.png?s=b27a4425b67770b84a345ab0742c3682",
+        "JnJ_Motilegas_Nov_2020_DCM_336x280_common_2.png?s=d8eb7a7e2cb5212b7eba5bad025a6b79",
+        "JnJ_Motilegas_Nov_2020_DCM_336x280_common_3.png?s=8f19cb4c622cda0a2223da46ff6b32d0"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Google/336x280/other": {
+      "name": "/Segmento - Google/336x280/other",
+      "section": "",
+      "publisher": "Segmento - Google",
+      "platform": "Google",
+      "formatName": "336x280",
+      "format": {
+        "width": 336,
+        "height": 280,
+        "isRubber": false
+      },
+      "feed": "other",
+      "state": "completed",
+      "updateTime": 1606981700014,
+      "creativeWeight": 148024,
+      "backupWeight": 133444,
+      "backupPath": "/Publish/other/Segmento - Google/336x280/JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_other.gif?s=03dd8287e3dd94bf9d4b8fc48b81f6b0",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_other.html?s=4474867d2111560f9bea45885c2e4e6f",
+      "framesPath": "/Frames/other/Segmento - Google/336x280/",
+      "zipPath": "/Publish/other/Segmento - Google/336x280/JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_other.zip?s=91825a50ce1c04c3cdd2ad72a1a2e679",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_other_1.png?s=bbf7b961a1a0801411db08be5c7ac06c",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_other_2.png?s=0ebc0646ff3e9bc3a15f99e909fc2b5e",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_other_3.png?s=71148dcf1c78a579963b502c2d32f1e2",
+        "JnJ_Motilegas_Nov_2020_Segmento_Google_336x280_other_4.png?s=176216c713da6e190a07155e76f29f39"
+      ],
+      "lastError": null
+    },
+    "/Segmento - Yandex/300x300/other": {
+      "name": "/Segmento - Yandex/300x300/other",
+      "section": "",
+      "publisher": "Segmento - Yandex",
+      "platform": "YandexApi",
+      "formatName": "300x300",
+      "format": {
+        "width": 300,
+        "height": 300,
+        "isRubber": false
+      },
+      "feed": "other",
+      "state": "completed",
+      "updateTime": 1606981724345,
+      "creativeWeight": 149972,
+      "backupWeight": 59873,
+      "backupPath": "/Publish/other/Segmento - Yandex/300x300/JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x300_other.gif?s=87fb50f783ad29df3dcd2474b360cb99",
+      "demoPath": "/Demo/demo_JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x300_other.html?s=a193d45b8aae17348ee082ed4d6f4c93",
+      "framesPath": "/Frames/other/Segmento - Yandex/300x300/",
+      "zipPath": "/Publish/other/Segmento - Yandex/300x300/JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x300_other.zip?s=cc561700c91177c6bf1c3f95205db233",
+      "frames": [
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x300_other_1.png?s=016fd1ccaf4481348c76e0dce014b878",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x300_other_2.png?s=35e0754b4ac807e6987844ddc6db7fa7",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x300_other_3.png?s=bade610ffb870e304e6a58c2e0d5f5f7",
+        "JnJ_Motilegas_Nov_2020_Segmento_Yandex_300x300_other_4.png?s=4d662d19f6d0a09d4875aac62b5b1bfa"
+      ],
+      "lastError": null
+    }
+  }
+}

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ru">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="authoring-tool" content="Adobe_Animate_CC">
+  <meta name="ad.size" content="width=160,height=600">
+  <title></title>
+  <script type="text/javascript" src="https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js"></script>
+  <script type="text/javascript" src="content.js"></script>
+  <script>var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+
+function init() {
+ canvas = document.getElementById("cvr_cnvs");
+ anim_container = document.getElementById("animation_container");
+ dom_overlay_container = document.getElementById("dom_overlay_container");
+ var comp = AdobeAn.getComposition("1E4D562F91EE4B408F0AC49B20246D76");
+ var lib = comp.getLibrary();
+ var loader = new createjs.LoadQueue(false);
+ loader.addEventListener("fileload", function(evt) {
+  handleFileLoad(evt, comp)
+ });
+ loader.addEventListener("complete", function(evt) {
+  handleComplete(evt, comp)
+ });
+ var lib = comp.getLibrary();
+ loader.loadManifest(lib.properties.manifest);
+}
+
+function handleFileLoad(evt, comp) {
+ var images = comp.getImages();
+ if (evt && (evt.item.type == "image")) {
+  images[evt.item.id] = evt.result;
+ }
+}
+
+function handleComplete(evt, comp) {
+ var lib = comp.getLibrary();
+ var ss = comp.getSpriteSheet();
+ var queue = evt.target;
+ var ssMetadata = lib.ssMetadata;
+ for (i = 0; i < ssMetadata.length; i++) {
+  ss[ssMetadata[i].name] = new createjs.SpriteSheet({
+   "images": [queue.getResult(ssMetadata[i].name)],
+   "frames": ssMetadata[i].frames
+  })
+ }
+ exportRoot = new lib.JnJ_Motilegas_160x600();
+ stage = new lib.Stage(canvas);
+ fnStartAnimation = function() {
+  stage.addChild(exportRoot);
+  createjs.Ticker.setFPS(lib.properties.fps);
+  createjs.Ticker.addEventListener("tick", stage);
+ }
+ registerButtons();
+ AdobeAn.makeResponsive(false, 'both', false, 1, [canvas, anim_container, dom_overlay_container]);
+ AdobeAn.compositionLoaded(lib.properties.id);
+ fnStartAnimation();
+}</script>
+  <script type="text/javascript">window.cvrTrackButtons = {};
+
+function registerButtons() {
+ delete window.cvrTrackButtons[1];
+ for (var id in window.cvrTrackButtons) {
+  var button = window.cvrTrackButtons[id];
+  button.html = document.getElementById(("click$index$_area").replace("$index$", id));
+  button.html.style.position = "absolute";
+  button.html.style.pointerEvents = "all";
+  button.html.addEventListener("mouseover", (function() {
+   this.cnvs.gotoAndStop(1);
+  }).bind(button));
+  button.html.addEventListener("mouseout", (function() {
+   this.cnvs.gotoAndStop(0);
+  }).bind(button));
+  button.html.addEventListener("mousedown", (function() {
+   this.cnvs.gotoAndStop(2);
+  }).bind(button));
+  button.step = function() {
+   if ((this.cnvs.isVisible()) && (this.cnvs.stage)) {
+    var pRatio = window.devicePixelRatio || 1;
+    var position = this.cnvs.localToGlobal(this.cnvs.nominalBounds.x, this.cnvs.nominalBounds.y);
+    var size = this.cnvs.localToGlobal(this.cnvs.nominalBounds.width, this.cnvs.nominalBounds.height);
+    var realPosition = this.cnvs.localToGlobal(0, 0);
+    size.x -= realPosition.x;
+    size.y -= realPosition.y;
+    position.x /= pRatio;
+    position.y /= pRatio;
+    size.x /= pRatio;
+    size.y /= pRatio;
+   } else {
+    position = {
+     x: 0,
+     y: 0
+    };
+    size = {
+     x: 0,
+     y: 0
+    };
+   }
+   this.html.style.left = position.x + "px";
+   this.html.style.top = position.y + "px";
+   this.html.style.width = size.x + "px";
+   this.html.style.height = size.y + "px";
+   window.requestAnimationFrame(this.step);
+  }
+  button.step = button.step.bind(button);
+  button.step();
+ }
+}</script>
+  <script type="text/javascript">var clickTag = "https://www.google.com/";
+
+function openLink() {
+ window.open(window.clickTag)
+}</script>
+  <script type="text/javascript"></script>
+ </head>
+ <body onload="init();" style="margin:0px;overflow:hidden;">
+  <div id="animation_container" style="position:absolute; background-color:rgba(255, 255, 255, 0); width:160px; height:600px">
+   <a id="click1_area" href="#" onClick="openLink();"><canvas id="cvr_cnvs" width="160" height="600" style="position: absolute; display: block; background-color:rgba(255, 255, 255, 0);"></canvas></a>
+   <div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; position: absolute; width:160px; height:600px; left: 0px; top: 0px; display: block;">
+</div>
+   <div style="position: absolute; left: 0px; top: 0px; width: 1.1px; height: 600px; background-color: #000"></div>
+   <div style="position: absolute; left: 0px; top: 0px; width: 160px; height: 1.1px; background-color: #000"></div>
+   <div style="position: absolute; left: 160px; transform:translateX(-1.1px); top: 0px; width: 1.1px; height: 600px; background-color: #000"></div>
+   <div style="position: absolute; left: 0px; top: 600px; transform:translateY(-1.1px); width: 160px; height: 1.1px; background-color: #000"></div>
+  </div>
+ </body>
+</html>

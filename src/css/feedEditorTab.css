@@ -1,0 +1,21 @@
+.textarea-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3%;
+}
+
+.textarea-label {
+  width: 20%;
+  align-self: start;
+  line-height: normal;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 0;
+}
+
+.textarea {
+  width: 80%;
+  display: flex;
+  align-self: flex-end;
+  margin-left: 20px;
+}
